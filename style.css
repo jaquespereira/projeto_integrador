@@ -1,3 +1,10 @@
-h1 {
-    background-color: yellow;
+h1, h3 {
+    color:yellow;
+    text-align: center;
+}
+
+
+
+.primeira_parte_tela_inicial {
+    background-image: url(imagem_2_parte1.avif);
 }
